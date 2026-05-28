@@ -1,3 +1,3 @@
-# Gamified Portfolio Template
+# Gamified Portfolio Template (static)
 
-A simple gamified portfolio template designed to showcase projects, skills, and experience in an interactive game-inspired layout.
+A static gamified portfolio template designed to showcase projects, skills, and experience in an interactive game-inspired layout.
